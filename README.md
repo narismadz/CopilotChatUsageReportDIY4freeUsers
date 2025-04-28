@@ -1,4 +1,4 @@
-See the manual.pdf for set up
+See the Manual.pdf for set up
 
 **Objectives:**
 1. This report aims to analyze the "Copilot chat active usage count" categorized by departments, for Copilot free users only (as temporary solution)
