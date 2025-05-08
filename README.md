@@ -7,5 +7,6 @@ See the Manual.pdf for set up
 
 **Prerequisites:**
 1. Global Administrator account who perform the report capture
-2. Enable “Display conceal user, group and site names in all reports” settings in Org. settings https://learn.microsoft.com/en-us/microsoft-365/troubleshoot/miscellaneous/reports-show-anonymous-user-name#resolution
+2. Enable “Display conceal user, group and site names in all reports” settings in Org. settings 
+https://learn.microsoft.com/en-us/microsoft-365/troubleshoot/miscellaneous/reports-show-anonymous-user-name#resolution
 3. Power BI Desktop (or Power BI Pro if published to the cloud)
